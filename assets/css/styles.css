@@ -1,0 +1,7 @@
+* {padding: 0; margin: 0}
+.card {max-width: 400px; border:solid thin #ccc; margin:auto}
+.card-header,.card-footer {display:flex;align-items:center; padding:10px;}
+.initial {background-color:red; color:white; border-radius:50%; width:40px; height:40px; text-align:center;line-height:40px; font-size:20px; margin-right:10px}
+.title-date h2, .title-date p {margin:0}
+.more-options-menu {margin-left:auto; cursor:pointer}
+.card-img {width:100%; height:auto}
